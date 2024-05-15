@@ -132,7 +132,7 @@ h6 {
 }
 
 .banner {
-    background: linear-gradient(to left, #df53ce, #ea9aeb);
+    background: linear-gradient(to left, #c465bf, #dd98da);
     padding: 100px 0px 0px;
     position: relative;
 }
@@ -261,8 +261,8 @@ h6 {
 .about-btn {
     color: #ffffff;
     padding: 10px 40px;
-    background: #c519be;
-    border: 2px solid #b818b2;
+    background: #c5198f;
+    border: 2px solid #ba1887;
     border-radius: 7px;
     margin-top: 30px;
     display: inline-block;
@@ -271,7 +271,7 @@ h6 {
 
 .about-btn:hover {
     background: #fff;
-    color: #b818b2;
+    color: #ba1887;
     text-decoration: none;
 }
 
@@ -282,7 +282,7 @@ h6 {
 }
 
 .video-overlay {
-    background: linear-gradient(to left, rgba(162, 96, 255, 0.5), rgba(245, 159, 250, 0.5));
+    background: linear-gradient(to left, rgba(210, 96, 255, 0.5), rgba(245, 159, 250, 0.5));
 }
 
 .video-section h3 {
@@ -297,7 +297,7 @@ h6 {
     height: 70px;
     border-radius: 100px;
     background: #ffffff;
-    color: #b119c5;
+    color: #c5199a;
     font-size: 30px;
     line-height: 70px;
     margin: 0 auto;
@@ -368,10 +368,10 @@ h6 {
     width: 50px;
     height: 50px;
     border-radius: 100px;
-    color: rgb(186, 23, 201);
+    color: rgb(201, 23, 162);
     font-size: 18px;
     line-height: 50px;
-    border: 1px solid rgb(189, 26, 162);
+    border: 1px solid rgb(201, 23, 162);
 }
 
 .team {
