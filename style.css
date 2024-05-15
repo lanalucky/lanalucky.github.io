@@ -132,8 +132,7 @@ h6 {
 }
 
 .banner {
-    background: #990099;
-    background: linear-gradient(to left, #bf60ff, #d99ffa);
+    background: linear-gradient(to left, #df53ce, #ea9aeb);
     padding: 100px 0px 0px;
     position: relative;
 }
@@ -277,13 +276,13 @@ h6 {
 }
 
 .video-section {
-    background: url(images/video-bg.jpg) no-repeat fixed center;
+    background: url(images/video-bg.png) no-repeat fixed center;
     background-size: cover;
     overflow: hidden;
 }
 
 .video-overlay {
-    background: linear-gradient(to left, rgba(122, 96, 255, 0.50), rgba(205, 159, 250, 0.50));
+    background: linear-gradient(to left, rgba(162, 96, 255, 0.5), rgba(245, 159, 250, 0.5));
 }
 
 .video-section h3 {
