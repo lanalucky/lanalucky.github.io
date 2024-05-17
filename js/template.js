@@ -30,11 +30,11 @@ $(window).on("scroll", function () {
         navbar = $(".navbar");
 
     if (bodyScroll > 50) {
-        $('.navbar-logo img').attr('src', 'images/logo-new-black.png');
+        $('.navbar-logo img').attr('src', 'images/logo.png');
         navbar.addClass("nav-scroll");
 
     } else {
-        $('.navbar-logo img').attr('src', 'images/logo-new.png');
+        $('.navbar-logo img').attr('src', 'images/logo-main.png');
         navbar.removeClass("nav-scroll");
     }
 
@@ -44,10 +44,10 @@ $(window).on("load", function () {
         navbar = $(".navbar");
 
     if (bodyScroll > 50) {
-        $('.navbar-logo img').attr('src', 'images/logo-new-black.png');
+        $('.navbar-logo img').attr('src', 'images/logo.png');
         navbar.addClass("nav-scroll");
     } else {
-        $('.navbar-logo img').attr('src', 'images/logo-new.png');
+        $('.navbar-logo img').attr('src', 'images/logo-main.png');
         navbar.removeClass("nav-scroll");
     }
 
