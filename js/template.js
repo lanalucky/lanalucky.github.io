@@ -30,11 +30,11 @@ $(window).on("scroll", function () {
         navbar = $(".navbar");
 
     if (bodyScroll > 50) {
-        $('.navbar-logo img').attr('src', 'images/logo.png');
+        $('.navbar-logo img').attr('src', 'images/svg/Logo_Lana_Lucky_7_black.svg');
         navbar.addClass("nav-scroll");
 
     } else {
-        $('.navbar-logo img').attr('src', 'images/logo-main.png');
+        $('.navbar-logo img').attr('src', 'images/svg/Logo_Lana_Lucky_4_white.svg');
         navbar.removeClass("nav-scroll");
     }
 
@@ -44,10 +44,10 @@ $(window).on("load", function () {
         navbar = $(".navbar");
 
     if (bodyScroll > 50) {
-        $('.navbar-logo img').attr('src', 'images/logo.png');
+        $('.navbar-logo img').attr('src', 'images/Logo_Lana_Lucky_7_black.svg');
         navbar.addClass("nav-scroll");
     } else {
-        $('.navbar-logo img').attr('src', 'images/logo-main.png');
+        $('.navbar-logo img').attr('src', 'images/svg/Logo_Lana_Lucky_4_white.svg');
         navbar.removeClass("nav-scroll");
     }
 
