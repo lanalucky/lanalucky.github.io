@@ -402,6 +402,11 @@ h6 {
 }
 
 .gallery {
+    background: #fff;
+    padding: 100px 0px;
+    position: relative;
+}
+.schedule {
     background: #fafafa;
     padding: 100px 0px;
     position: relative;
